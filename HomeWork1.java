@@ -1,4 +1,4 @@
-package ua.hillel.ivashkin.lesson.lesson1;
+package ua.hillel.ivashkin.lessons.lesson1;
 
 public class HomeWork1 {
     public static void main(String[] args) {
