@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Java Best");
         System.out.println("TEST TEST TEST!");
+        System.out.println("Hello Git");
     }
 
 }
